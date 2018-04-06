@@ -1,0 +1,87 @@
+﻿body {
+    background-color: white;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+
+ table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            color: #000000;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+            font-size: 12px;
+        }
+        th {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+            font-size: 12px;
+        }
+
+
+ tr:nth-child(even) {
+           background-color: #dddddd;
+        }
+#WaitTr{
+    color:black;
+    font-size: 12px;
+    border:1px solid black;
+    text-align:center;
+    border-color: rgb(166, 166, 166);
+}
+#tbRow{
+    color:black;
+    font-size: 12px;
+    border:1px solid black;
+    text-align:center;
+    border-color: rgb(166, 166, 166);
+}
+#tbHeader{
+    color:black;
+    font-size: 12px;
+    border:1px solid black;
+    text-align:center;
+    border-color: rgb(166, 166, 166);
+}
+#Squads_Counter{
+
+    border-radius:25px;
+    border: 1px solid #dddddd;
+    width:200px;
+    height:25px;
+
+    
+}
+#Squad_Gen{
+    border-radius:25px;
+    border: 1px solid #dddddd;
+    width:200px;height:30px;
+    color:white;
+    background-color:rgb(0, 140, 255);
+    font-size: 14px;
+
+}
+#Squad_Ref{
+    border-radius:25px;
+    border: 1px solid #dddddd;
+    width:200px;height:30px;
+    color:white;
+    background-color:rgb(0, 140, 255);
+    font-size: 14px;
+}
+#Message{
+    
+    color:rgb(0, 140, 255);
+    font-weight:bold;
+    font-size: 14px;
+}
+
