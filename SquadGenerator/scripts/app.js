@@ -86,7 +86,7 @@
                         }
                      window.location.reload();
                              }
-        //Looping through the players table
+//Looping through the players table
 
           $(document).ready(function () {
         //Here put the unassigned players to the waiting list table
@@ -247,13 +247,6 @@
             
       }
        
-        
-       
-
-      
-
-      
-
         
     }
 
